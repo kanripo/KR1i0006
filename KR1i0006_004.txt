@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 律呂成書
-#+DATE: 2018-03-24 09:40:50.057775
+#+DATE: 2018-03-24 09:40:50.143408
 #+PROPERTY: ID KR1i0006
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 4
 <pb:KR1i0006_WYG_004-1a>¶
 　　欽定四庫全書¶
@@ -146,7 +146,7 @@
 <pb:KR1i0006_WYG_004-7a>¶
 黄鐘之實止八百一十方分何以能容千二百¶
 黍哉蓋方與員不同方無空員有空以員頂對¶
-員頂則一為一分若縱横補塞其空𠑽滿黄鐘¶
+員頂則一為一分若縱横補塞其空充滿黄鐘¶
 之管可容千二百黍九十分之則毎分該十三¶
 黍又三分黍之一矣用羊頭山黍以篩子篩之¶
 去其大者小者而用中者若管既定則隨大小¶

@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 律呂成書
-#+DATE: 2018-03-24 09:40:50.008188
+#+DATE: 2018-03-24 09:40:50.096535
 #+PROPERTY: ID KR1i0006
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR1i0006_WYG_000-1a>¶
 　　欽定四庫全書　　　　　經部九¶
